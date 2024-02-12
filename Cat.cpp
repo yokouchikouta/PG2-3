@@ -1,0 +1,8 @@
+#include "Cat.h"
+#include <stdio.h>
+
+
+void Cat::Speak()
+{
+	printf("îLÅ@ÅF Ç…Ç·Å[\n");
+}
